@@ -1,0 +1,25 @@
+.titulo{
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 28px;	
+}
+
+.qtdLabel{
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 22px;		
+}
+
+.tela{
+	-fx-background-color: white;	
+}
+
+.botao{
+	-fx-background-color: #fff;
+	-fx-background-radius: 30px;
+	-fx-border-radius: 30px;
+	-fx-border-color: black;
+	-fx-border-width: 2px;
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 16px;
+	-fx-min-width: 5px;		
+	-fx-min-height: 20px;
+}
